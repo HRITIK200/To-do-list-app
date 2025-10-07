@@ -51,13 +51,22 @@ The app adapts to all screen sizes using CSS media queries.
 ---
 
 ## 🖼️ Screenshots
-*(Add your screenshots here once taken)*  
-Example:
-1. Home Screen  
-2. Adding a Task  
-3. Editing a Task  
-4. Completed Task View  
+
+1. Home Page 
+   ![Home Page](./screenshots/home.jpg)
+
+2. Adding a Task 
+   ![Adding a Task](./screenshots/add_task-1.jpg), (./screenshots/add_task-2.jpg) 
+
+3. Editing a Task 
+   ![Editing a Task](./screenshots/edit_task.jpg),
+   (./screenshots/edit_task-1.jpg)
+
+4. Completed Task View 
+   ![completed Task view](./screenshots/completed_task_view.jpg) 
+
 5. Mobile View  
+   ![Mobile view](./screenshots/Mobile_view.jpg)
 
 ---
 
