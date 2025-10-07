@@ -50,6 +50,22 @@ The app adapts to all screen sizes using CSS media queries.
 
 ---
 
+## Example Scenario
+
+Let’s say you add these tasks:
+
+“Complete README file” → Due: 2025-10-07 → Priority: High
+“Design PPT slides” → Due: 2025-10-09 → Priority: Medium
+“Email mentor for feedback” → Due: 2025-10-10 → Priority: Low
+
+Your app will show them like this (each with color side indicators):
+
+🔴 High = red border
+🟠 Medium = orange
+🟢 Low = green
+
+You can now filter to see only pending, completed, or all tasks, and the counter will update automatically.
+
 ## 🖼️ Screenshots
 
 1. Home Page 
