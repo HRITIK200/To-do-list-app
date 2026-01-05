@@ -69,7 +69,7 @@ You can now filter to see only pending, completed, or all tasks, and the counter
 ## 🖼️ Screenshots
 
 1. Home Page 
-   ![Home Page](./screenshots/home.jpg)
+   ![Home Page](./screenshots/Home_page.jpg)
 
 2. Adding a Task 
    ![Adding a Task](./screenshots/add_task-1.jpg), (./screenshots/add_task-2.jpg) 
@@ -94,4 +94,3 @@ You can now filter to see only pending, completed, or all tasks, and the counter
 
 ---
 
-## 📂 Folder Structure
